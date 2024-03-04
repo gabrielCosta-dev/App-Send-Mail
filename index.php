@@ -29,7 +29,7 @@
 
 							<div class="form-group">
 								<label for="assunto">Assunto</label>
-								<input type="text" class="form-control" id="assunto" placeholder="Assundo do e-mail">
+								<input type="text" class="form-control" id="assunto" placeholder="Assunto do e-mail">
 							</div>
 
 							<div class="form-group">
